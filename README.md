@@ -1,2 +1,2 @@
 # ansible-config-mgt
-update 
+update latest
